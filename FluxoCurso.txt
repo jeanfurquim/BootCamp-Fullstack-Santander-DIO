@@ -1,0 +1,60 @@
+1) Introdução -OK
+
+2) Módulo I = Abertura 
+   a) Int. Programação e Pensamento Computacional - OK
+   b) Int. ao Git e ao GitHub - OK
+   c) Criando Repósitorio - OK
+
+3) Módulo II - HTML/CSS3/JS
+   a) Int criação websites com HTML e CSS3
+   b) Posicionamento elementos com FlexBox em CSS
+   c) Desafio - Recriar pagina Inicial do Instagram
+   d) Int. JavaScript	
+   e) Sintaxe e operadores
+   f) Variáveis e Tipos
+   g) Funções
+   h) Coleções
+   i) Map, Filter e Reduce
+   j) Debugging e Error Handling
+   l) JavaScript assíncrono
+   m) Orientação a objetos
+   n) Desafio Inicial Js - Santander Fullstack Developer
+   o) Trabalhando com Módulos em JavaScript
+   p) Manipulando D.O.M. com Javascript
+   q) Int. TypeScript: Explorando classes, Tipos e Interfaces
+   r) Int. Prática ao TypeScript
+
+4) Módulo III - Angular
+   a) Int. Angular 8
+   b) Trabalhando com Páginas SPA com Angular
+   c) A arquitetura de componentes e a gestão da complexidade no front-end
+   d) Instalando e Preparando o Ambiente Angular
+   e) Explorando Direticas com Angular
+   f) Implementando Serviços e Injeção de Dependências com Angular 
+   g) Int. Serviços Assíncronos no Angular
+   h) O poder do Data Binding no Angular
+   i) Trabalhando com componentes em Angular
+   j) Criação de Pipes com Angular
+   l) Desafios Intermediários Js - Santander Fullstack Developer
+   m) Como criar um front-end de um e-commerce utilizando Angular
+
+5) Módulo IV - JAVA
+   a) Dominando IDEs JAva
+   b) Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+   c) Entendendo Métodos Java
+   d) Lógica Condicional e Controle de Fluxos em Java
+   e) Estruturas de Repetição e Arrays em Java
+   f) Trabalhando com Collections Java
+   g) Tratamento de Exceções em Java
+   h) Debugging Java
+   i) Prrogramação Orientada a Objetos
+   j) Desafios Inciais Java - Santander Fullstack Developer
+   i) Criando um Banco Digital com Java e Orientação a Objetos
+
+6) Módulo V - Spring Framework
+   a) Conhecendo os Principais Protocolos de Comunicação da Internet
+   b) Introdução ao framework Spring Boot
+   c) Imersao no Spring Framework com Spring Boot
+   d) Adicionado Segurança a uma API REST com Spring Security
+   e) Desafios Intermediários Java - Santander Fullstack Developer
+   f) Explorando Padrões de Projetos na Prática com Java 		
